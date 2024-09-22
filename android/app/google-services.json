@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174765754881",
+    "firebase_url": "https://fluttercvproj-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fluttercvproj",
+    "storage_bucket": "fluttercvproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174765754881:android:72610c6e426e984a3e4e00",
+        "android_client_info": {
+          "package_name": "com.example.fluttercvproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174765754881-2f05aino60q8bpua1ibf2r97gbh140vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZL4pbcTeVVqjsWt_WM2u6jw_AtnWScQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174765754881-2f05aino60q8bpua1ibf2r97gbh140vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
